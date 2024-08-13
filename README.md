@@ -7,7 +7,7 @@ I am a Computer/Electrical Engineer from Halifax Nova Scotia with a passion for 
 
 ### Personal Projects:
 
-[Fantasy Hockey Dashboard](https://github.com/weakbox/Fantasy-Hockey-Matchup-Graph-Generator)
+[Fantasy Hockey Dashboard](https://github.com/weakbox/Fantasy-Hockey-Dashboard)
 
 [XM-23 Emulator](https://github.com/weakbox/XM23-Emulator)
 
