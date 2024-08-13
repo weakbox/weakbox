@@ -1,7 +1,7 @@
 # 📦 Welcome to my GitHub!
 I am a Computer/Electrical Engineer from Halifax Nova Scotia with a passion for design and programming!
 
->I am looking for employment!
+>[I am searching for a job!](https://www.linkedin.com/in/weakbox/)
 
 ## Project Examples
 
