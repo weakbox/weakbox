@@ -11,7 +11,7 @@ I am a Computer/Electrical Engineer from Halifax Nova Scotia with a passion for 
 
 [XM-23 Emulator](https://github.com/weakbox/XM23-Emulator)
 
-### freeCodeCamp React Apps:
+### freeCodeCamp React Web Apps:
 
 [Markdown Previewer](https://github.com/weakbox/FCC-Markdown-Previewer)
 
