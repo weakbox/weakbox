@@ -1,5 +1,5 @@
 # 📦 Welcome to my GitHub!
-I am a Computer/Electrical Engineer from Halifax Nova Scotia with a passion for design and programming!
+I am a Computer Engineer from Halifax Nova Scotia with a passion for problem-solving!
 
 ## Project Examples
 
