@@ -1,5 +1,6 @@
 # 📦 Welcome to my GitHub!
-I am a Computer Engineer from Halifax Nova Scotia with a passion for problem-solving!
+
+_"Dude, sucking is the first step to being sorta good at something!"_ — Jake 
 
 ## Project Examples
 
