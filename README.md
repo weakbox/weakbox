@@ -8,6 +8,8 @@ _"Dude, sucking is the first step to being sorta good at something!"_ — Jake
 
 [Fantasy Hockey Dashboard](https://github.com/weakbox/Fantasy-Hockey-Dashboard)
 
+[Guess the Year](https://github.com/weakbox/guess-the-year-game)
+
 ### Academic Projects:
 
 [XM-23 Emulator](https://github.com/weakbox/XM23-Emulator)
