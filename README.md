@@ -8,7 +8,7 @@ _"Dude, sucking is the first step to being sorta good at something!"_ — Jake
 
 [Fantasy Hockey Dashboard](https://github.com/weakbox/Fantasy-Hockey-Dashboard)
 
-[Guess the Year](https://github.com/weakbox/guess-the-year-game)
+[Guess the Year XP - A Windows XP Styled Year-Guessing Game](https://github.com/weakbox/guess-the-year-game)
 
 ### Academic Projects:
 
