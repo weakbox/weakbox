@@ -6,6 +6,8 @@ _"Dude, sucking is the first step to being sorta good at something!"_ — Jake
 
 ### Personal Projects:
 
+DailyFeud (COMING SOON!)
+
 [Fantasy Hockey Dashboard](https://github.com/weakbox/Fantasy-Hockey-Dashboard)
 
 [Guess the Year XP - A Windows XP Styled Year-Guessing Game](https://github.com/weakbox/guess-the-year-game)
