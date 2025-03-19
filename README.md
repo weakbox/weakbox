@@ -1,22 +1,24 @@
-# 📦 Welcome to my GitHub!
+# Weakbox Industries — Connor McLeod 📦
 
-_"Dude, sucking is the first step to being sorta good at something!"_ — Jake 
+Hi out there! It's me, Connor McLeod, an East-Coast Computer Engineer in desperate need for work!
 
-## Project Examples
+_"Dude, sucking is the first step to being sorta good at something!"_ — Jake the Dog
 
-### Personal Projects:
+## Published Projects
 
-DailyFeud (COMING SOON!)
+### Personal:
+
+[DailyFeud](https://github.com/weakbox/dailyfeud) — Coming soon...
 
 [Fantasy Hockey Dashboard](https://github.com/weakbox/Fantasy-Hockey-Dashboard)
 
-[Guess the Year XP - A Windows XP Styled Year-Guessing Game](https://github.com/weakbox/guess-the-year-game)
+[Guess the Year XP](https://github.com/weakbox/guess-the-year-game)
 
-### Academic Projects:
+### Academic:
 
 [XM-23 Emulator](https://github.com/weakbox/XM23-Emulator)
 
-### freeCodeCamp React Web Apps:
+### freeCodeCamp Stuff:
 
 [Markdown Previewer](https://github.com/weakbox/FCC-Markdown-Previewer)
 
