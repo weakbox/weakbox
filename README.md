@@ -1,6 +1,6 @@
 # Weakbox Industries — Connor McLeod 📦
 
-Hi out there! It's me, Connor McLeod, an East-Coast Computer Engineer in desperate need of work!
+Hi out there! It's me, Connor McLeod, an East-Coast Computer Engineer!
 
 _"Dude, sucking is the first step to being sorta good at something!"_ — Jake the Dog
 
